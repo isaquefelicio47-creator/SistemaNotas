@@ -11,10 +11,15 @@
 
 * Quarto passo, Execute a aplicação: (java -cp bin SistemaNotas.TesteNotas)
 
-  Descrição das classes criadas e a responsabilidade de cada uma.
+### Descrição das classes criadas e a responsabilidade de cada uma.
 
 * Aluno.java: É a classe que modela o aluno. Ela armazena o nome, matrícula e três notas. Suas principais responsabilidades são calcular a média e definir a situação do aluno com base nos critérios de avaliação.
 
 * GerenciadorTurma.java: Atua como gerenciador da turma. Ela utiliza um vetor para armazenar até 4 objetos da classe Aluno, permitindo listar os boletins de todos, identificar quem obteve a maior média e contar o total de aprovados na turma.
 
 * TesteNotas.java: É a interface de interação. Contém o menu interativo (utilizando switch-case e do-while) que permite ao usuário navegar pelas funções do sistema em tempo real.
+
+### Nome: 
+Isaque Felício Moreira 
+### Turma:  
+Informática 2º período
