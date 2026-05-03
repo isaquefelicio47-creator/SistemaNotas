@@ -1,4 +1,8 @@
 # SistemaNotas
+
+## Tecnologia utilizada ( Java 21.0.10, VScode)
+
+### Passo a passo para compilar e rodar no console:
 * Primeiro passo, clone o projeto: Use (git clone https://github.com/isaquefelicio47-creator/SistemaNotas.git)
   
 * Segundo passo, Acesse a pasta raiz do código: (cd SistemaNotas)
