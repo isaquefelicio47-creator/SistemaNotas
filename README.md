@@ -1,5 +1,5 @@
 # SistemaNotas
-
+## O sistema permite o cadastro de alunos, lançamento de notas, cálculo de médias e verificação automática da situação acadêmica (Aprovado, Recuperação ou Reprovado).
 ## Tecnologia utilizada ( Java 21.0.10, VScode)
 
 ### Passo a passo para compilar e rodar no console:
